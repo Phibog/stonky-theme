@@ -3,7 +3,7 @@
   "publisher": "stonky",
   "displayName": "stonkytheme",
   "description": "Mooning color theme",
-  "version": "0.0.31",
+  "version": "0.0.32",
   "engines": {
     "vscode": "^1.76.2"
   },
